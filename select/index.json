@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "NEW DANCE",
+  "base_artist": "XG",
+  "createdAt": "2025-12-30T09:11:16.582350Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Dance",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/01_Brand_New_Dance_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You (Mariah's New Dance Mix Extended 2009)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/02_All_I_Want_for_Christmas_Is_You_(Mariah's_New_Dance_Mix_Extended_2009)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Like A Hurricane (new Dance-Mix)",
+      "artist": "C.C. Catch",
+      "has_synced": false,
+      "path": "select/03_Like_A_Hurricane_(new_Dance-Mix)_C.C._Catch.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Dance",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/04_Brand_New_Dance_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You (Mariah's New Dance Mix Edit Extended)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/05_All_I_Want_for_Christmas_Is_You_(Mariah's_New_Dance_Mix_Edit_Extended)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You (Mariah's New Dance Mix Edit)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/06_All_I_Want_for_Christmas_Is_You_(Mariah's_New_Dance_Mix_Edit)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All I Want for Christmas Is You (Mariah's New Dance Mix)",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/07_All_I_Want_for_Christmas_Is_You_(Mariah's_New_Dance_Mix)_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NEW DANCE",
+      "artist": "XG",
+      "has_synced": true,
+      "path": "select/08_NEW_DANCE_XG.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Is Acid (A New Dance Craze) (K & T mix)",
+      "artist": "Maurice",
+      "has_synced": true,
+      "path": "select/09_This_Is_Acid_(A_New_Dance_Craze)_(K_&_T_mix)_Maurice.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Brand New Dance",
+      "artist": "Loudon Wainwright III",
+      "has_synced": true,
+      "path": "select/10_Brand_New_Dance_Loudon_Wainwright_III.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Detroit's New Dance Show",
+      "artist": "Black Milk",
+      "has_synced": false,
+      "path": "select/11_Detroit's_New_Dance_Show_Black_Milk.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cowboy Cadillac - New Dance Mix",
+      "artist": "Confederate Railroad",
+      "has_synced": true,
+      "path": "select/12_Cowboy_Cadillac_-_New_Dance_Mix_Confederate_Railroad.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEW DANCE",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_NEW_DANCE_XG.txt"
+    }
+  ]
+}
